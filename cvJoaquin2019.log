@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.9)  14 MAR 2019 08:08
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.9)  26 MAR 2019 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -893,38 +893,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 \location{}
+l.230 \location{}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
  (./cvJoaquin2019.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 235.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package rerunfilecheck Info: File `cvJoaquin2019.out' has not changed.
+(rerunfilecheck)             Checksum: 28508D52C91C32F16B35F54F5E711ED2.
 
-
-Package rerunfilecheck Warning: File `cvJoaquin2019.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cvJoaquin2019.out':
-(rerunfilecheck)             Before: A68F1E15E07CBB41E78D5E1EB9A76C98
-(rerunfilecheck)             After:  28508D52C91C32F16B35F54F5E711ED2.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
  ) 
 Here is how much of TeX's memory you used:
  24626 strings out of 492933
  453296 string characters out of 6138668
- 555546 words of memory out of 5000000
+ 555547 words of memory out of 5000000
  28488 multiletter control sequences out of 15000+600000
  533026 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
